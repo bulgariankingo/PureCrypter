@@ -1,4 +1,3 @@
-Here's the **English version** of the professional README for your **Pure Crypter** project, including strong ethical warnings.
 
 ---
 
